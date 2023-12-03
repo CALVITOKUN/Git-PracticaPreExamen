@@ -17,3 +17,5 @@
 6. Haz un juego que te permita adivinar un número aleatorio entre 1 y 100. Cuando el usuario introduzca por pantalla le dirá "más alto", "más bajo" o "has acertado"
 
 7. Crea un script que llame a una función que compruebe la validez de un DNI.
+
+8. Pide un año y haz que el programa devuelva si es bisiesto. Esto es, que sea divisible entre 400, o entre 4 y pero que no sea divisible entre 100. El año bisiesto se estableción en 1582 por la bula Inter Gravissimas de Gregorio XIII.
