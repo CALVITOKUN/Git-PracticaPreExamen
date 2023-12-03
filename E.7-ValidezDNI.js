@@ -2,6 +2,7 @@ const input = require("prompt-sync")({ sigint: true });
 
 let variable = false;
 
+//entrada bucle
 while (!variable) {
     const numero = input("Introduce tu número de DNI o escribe cancelar=> ");
     
